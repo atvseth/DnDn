@@ -1,0 +1,14 @@
+ID:
+29
+Name:
+s
+Type:
+Goblin
+Size:
+Humanoid
+Alignment:
+Neutral Evil
+Armor Class:
+15
+Hit Points:
+7

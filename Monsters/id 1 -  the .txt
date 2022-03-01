@@ -1,0 +1,14 @@
+ID:
+1
+Name:
+
+Type
+
+Size:
+
+Alignment:
+
+Armor Class:
+:
+Hit Points:
+:

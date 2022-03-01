@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="-6130.5306"
+     inkscape:cy="787.23026"
+     inkscape:window-width="1284"
+     inkscape:window-height="1041"
+     inkscape:window-x="234"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1886.0558"
+       y="18.694775"
+       id="text99"><tspan
+         sodipodi:role="line"
+         id="tspan97"
+         style="stroke-width:0.264583"
+         x="-1886.0558"
+         y="18.694775">DnDn</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1886.0558"
+         y="31.923899"
+         id="tspan101">Monster generator in DnD</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1886.0558"
+         y="45.153023"
+         id="tspan103" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1886.0558"
+         y="58.382149"
+         id="tspan109">UX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-2034.5558"
+       y="114.9905"
+       id="text1327"><tspan
+         sodipodi:role="line"
+         id="tspan1325"
+         style="stroke-width:0.264583"
+         x="-2034.5558"
+         y="114.9905">FrontDoor</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-2034.5558"
+         y="128.21962"
+         id="tspan1329">1. Create a new monster</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-2034.5558"
+         y="141.44875"
+         id="tspan1331">2. Look up a existing monster</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-2034.5558"
+         y="154.67787"
+         id="tspan1333">3. Delete a monster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-1702.6354"
+       y="143.91449"
+       id="text2183"><tspan
+         sodipodi:role="line"
+         id="tspan2181"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="143.91449">1.Create new monster</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="157.14362"
+         id="tspan899">1.0.1 Increase the ID counter</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="170.37274"
+         id="tspan3693">1.0.1.1 Check this for numeric on Ln15 or not in Boolean: 	if ($value == $File[1]) {</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="183.60187"
+         id="tspan2185">1.1 Create &quot;array&quot; for attributes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="196.83099"
+         id="tspan14323" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-1702.6354"
+         y="210.06012"
+         id="tspan14325">1.2 copy monster</tspan></text>
+  </g>
+</svg>
