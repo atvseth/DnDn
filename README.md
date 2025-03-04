@@ -1,6 +1,7 @@
 # DnDn
+
+Git repo
+
+checkout repos for what you're looking for
+
 A DnD monster generator / multitool
-
-Current code language: Perl based
-
-Java branch kept until it can be reviewed for tools to pull into Perl
